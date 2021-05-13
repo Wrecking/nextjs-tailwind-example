@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <div className="text-center pt-20">
         <span className="text-8xl text-white decoration-clone bg-gradient-to-b from-yellow-400 to-red-500">
-            Hello World
+            Hello World!
         </span>
       </div>
     </div>
